@@ -97,7 +97,7 @@ Linuxda 2 xil mode bor
 Examples of Using the Octal mode:
 Suppose if we to give read and write permission to the file Owner. Read, write and executable permission to the Group. Read-only permission to the Other. They our command would be.
 
-##chmod 674 [file_name]
+## chmod 674 [file_name]
 
 Here.
 
